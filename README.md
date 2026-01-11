@@ -21,16 +21,14 @@ Contacts 📡:
 Feel free to get in touch if you are interested in my work, curious to learn more, or considering a collaboration! 🚀
 
 ## [>] Repositories and libraries
-> Some repos are related to research topics still private, coming soon after publications. In the meanwhile, I'm open to share them for collaborations!
+> Several repos are related to research topics and still private, but will come out soon after publications. In the meanwhile, I'm open to share them for collaborations!
+
+#### WIP
 
 ### Machine learning
-#### WIP
 
 ### Computer vision and SLAM
-#### WIP
 
 ### Spacecraft GNC simulation and development
-#### WIP
 
 ### Rendering
-#### WIP
