@@ -16,7 +16,7 @@ Research 🧪:
 Contacts 📡:
 - Email: petercalifano.gs@gmail.com or pietro.califano@polimi.it
 - Telegram: @peter_califano
-- Linkedin: [Pietro Califano](www.linkedin.com/in/pietro-califano-a46b7b199)
+- Linkedin: [Pietro Califano](https://www.linkedin.com/in/pietro-califano-a46b7b199/)
 
 Feel free to get in touch if you are interested in my work, curious to learn more, or considering a collaboration! 🚀
 
