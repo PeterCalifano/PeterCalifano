@@ -4,10 +4,10 @@
 
 I'm a PhD student in Aerospace Engineering at DARTLab, Politecnico di Milano.
 My research focuses on the intersection of computer vision, SLAM algorithms, and machine learning, all applied to spacecraft navigation, mostly for autonomous exploration and characterization of unknown bodies.
+In the free time, I often play with computer graphics and raytracing things.
 
 Curiosity is my greatest strength. No matter the subject, I approach everything with awe and enthusiasm ✨. 
 
-In the free time, I often play with computer graphics and raytracing things.
 
 **Motto** 🔥: *“Wonder is anywhere, if you are curious enough to discover it.”*
 
