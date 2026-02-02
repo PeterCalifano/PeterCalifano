@@ -7,7 +7,7 @@ My research focuses on the intersection of computer vision, SLAM algorithms, and
 
 **Motto** 🔥: *“Wonder is anywhere, if you are curious enough to discover it.”*
 
-**Coding related motto** 🤖: *“Give me a task and I will code a general SW library to automate it.”*
+**Coding related motto** 🤖: *“Give me a task and I will code a SW library to automate it.”*
 
 Research 🧪:
 - [Google Scholar profile](https://scholar.google.com/citations?user=Yvol8yQAAAAJ&hl=en)
