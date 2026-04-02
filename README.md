@@ -24,10 +24,8 @@ Contacts 📡:
 
 Feel free to get in touch if you are interested in my work, curious to learn more, or considering a collaboration! 🚀
 
-## [>] Repositories and libraries
+## [>] Repositories and libraries (section WIP)
 > Several repos are related to research topics and still private, but will come out soon after publications. In the meanwhile, I'm open to share them for collaborations!
-
-#### WIP
 
 ### Machine learning
 
