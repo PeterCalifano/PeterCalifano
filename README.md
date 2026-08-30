@@ -34,6 +34,10 @@ I am also interested in **event-based vision**, **physically based rendering and
 
 Header-only C++20 library providing reusable data structures and components for visual-SLAM frontends, including feature tracks, bundles and covisibility structures. Designed as an installable, dependency-light package with optional CUDA, ROS 2 and language bindings.
 
+**pyramidal-klt-for-space-nav** (Private repository)
+
+C++20 pyramidal KLT feature-tracking library for visual navigation, with MATLAB-codegen KLT/MSAC kernels, an OpenCV-based tracking pipeline, Python/MATLAB bindings and an optional ROS 2 overlay. It also includes reproducible demos on lunar imagery for end-to-end evaluation of the frontend pipeline.
+
 **space-nav-frontend** (Private repository)
 
 Visual-navigation frontend used to develop and integrate feature tracking, geometric vision and related perception components for the broader spacecraft navigation architecture.
