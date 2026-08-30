@@ -44,6 +44,10 @@ Visual-navigation frontend used to develop and integrate feature tracking, geome
 
 C++20 extension library for spacecraft navigation on top of GTSAM, including dynamics and propagation utilities, process-noise handling, measurement and maneuver factors, and optional Python/MATLAB wrappers.
 
+**[EstimationGears for SpaceNav](https://github.com/PeterCalifano/EstimationGears_for_SpaceNav)**
+
+Collection of reusable MATLAB and C++ building blocks for spacecraft navigation estimators, progressively organized and refactored from research code developed across different projects.
+
 **space-nav-backend** (Private repository)
 
 Navigation backend combining MATLAB algorithms with a standalone C++/CUDA library, wrapper infrastructure and an optional ROS 2 overlay.
