@@ -1,22 +1,22 @@
 # Pietro Califano
 
-PhD researcher in Aerospace Engineering at **DARTLab, Politecnico di Milano**, working on autonomous spacecraft navigation at the intersection of **computer vision, SLAM, state estimation, machine learning, and robotics**.
+PhD researcher in Aerospace Engineering at **DARTLab, Politecnico di Milano**, working on autonomous spacecraft navigation at the intersection of **computer vision, SLAM, state estimation, machine learning and robotics**.
 
-My research focuses primarily on navigation and autonomous exploration around small bodies and other poorly characterized environments. I work across the navigation pipeline, from visual frontends and sensor processing to nonlinear estimation, factor graphs, simulation, and algorithm deployment.
+My research focuses primarily on navigation and autonomous exploration around small bodies and other poorly characterized environments. I work across the full navigation pipeline, from visual frontends and sensor processing to nonlinear estimation, factor graphs, simulation and algorithm deployment.
 
 I am also interested in **event-based vision**, **physically based rendering and sensor simulation**, and the development of reusable scientific and robotics software.
 
-### Research profiles & links
+### Research profiles and links
 
 - [Google Scholar](https://scholar.google.com/citations?user=Yvol8yQAAAAJ&hl=en)
 - [ORCID](https://orcid.org/0009-0003-6157-3515)
 - [LinkedIn](https://www.linkedin.com/in/pietro-califano-a46b7b199/)
-- Personal website — WIP
+- Personal website (WIP)
 
 ## Research interests
 
 - Autonomous spacecraft navigation and exploration
-- Visual navigation, SLAM, and structure from motion
+- Visual navigation, SLAM and structure from motion
 - Factor-graph estimation and multi-sensor fusion
 - Computer vision and event-based vision
 - Guidance and autonomous robotics
@@ -24,38 +24,97 @@ I am also interested in **event-based vision**, **physically based rendering and
 - Physically based rendering and sensor simulation
 - Scientific and robotics software engineering
 
-## Selected software & projects
+## Selected software and projects
 
-> Some active research repositories remain private while the corresponding work is in development or publication. Reusable components are released publicly whenever possible, and I am open to sharing work in the context of research collaborations.
+> Some active research repositories remain private while the corresponding work is in development or publication. Reusable components are released publicly whenever possible, and I am open to sharing work in the context of research collaborations, projects and reviews.
 
-### Computer vision, SLAM & robotics
+### Computer vision, SLAM and robotics
 
-**[slam-primitives](https://github.com/PeterCalifano/slam-primitives)**  
-Header-only C++20 library providing reusable data structures and components for visual-SLAM frontends, including feature tracks, bundles, and covisibility structures. Designed as an installable, dependency-light package with optional CUDA, ROS 2, and language bindings.
+**[slam-primitives](https://github.com/PeterCalifano/slam-primitives)**
 
-### Spacecraft navigation & simulation
+Header-only C++20 library providing reusable data structures and components for visual-SLAM frontends, including feature tracks, bundles and covisibility structures. Designed as an installable, dependency-light package with optional CUDA, ROS 2 and language bindings.
 
-**[SimulationGears for SpaceNav](https://github.com/PeterCalifano/SimulationGears_for_SpaceNav)**  
-Simulation infrastructure for spacecraft navigation research, combining a MATLAB-based simulation environment with a growing native C++20, CUDA, and ROS 2 software stack.
+**space-nav-frontend** (Private repository)
 
-### Machine learning & deployment
+Visual-navigation frontend used to develop and integrate feature tracking, geometric vision and related perception components for the broader spacecraft navigation architecture.
 
-**[pyTorchAutoForge](https://github.com/PeterCalifano/pyTorchAutoForge)**  
-Tools for PyTorch model development, experiment tracking, optimization, and deployment. Includes integration with MLflow and Optuna together with ONNX, TensorRT, and embedded/Jetson-oriented workflows.
+### Spacecraft navigation and estimation
 
-### Scientific C++ / CUDA development
+**gtsam-space-nav** (Private repository)
 
-**[cpp_cuda_template_project](https://github.com/PeterCalifano/cpp_cuda_template_project)**  
-Reusable CMake project template for modern C++20 and GPU-accelerated libraries, with optional CUDA, OptiX, TensorRT, Python/MATLAB bindings, testing, documentation, profiling, and CI support.
+C++20 extension library for spacecraft navigation on top of GTSAM, including dynamics and propagation utilities, process-noise handling, measurement and maneuver factors, and optional Python/MATLAB wrappers.
 
-### Rendering & sensor simulation
+**space-nav-backend** (Private repository)
 
-**[computer-graphics-primitives](https://github.com/PeterCalifano/computer-graphics-primitives)**  
-Dependency-light C++20 foundation for reusable computer-graphics, rendering, and physically based sensor-simulation components.
+Navigation backend combining MATLAB algorithms with a standalone C++/CUDA library, wrapper infrastructure and an optional ROS 2 overlay.
+
+**space-nav-loop-closures** (Private repository)
+
+Research repository for loop-closure detection and geometric validation in visual SLAM for small-body navigation.
+
+### Space environment and models simulation
+
+**[SimulationGears for SpaceNav](https://github.com/PeterCalifano/SimulationGears_for_SpaceNav)**
+
+Simulation infrastructure for spacecraft navigation research, combining a MATLAB-based simulation environment with a growing native C++20, CUDA and ROS 2 software stack.
+
+**space-nav-shape-reconstruction** (Private repository)
+
+Research and software for shape reconstruction and mapping of poorly characterized bodies, intended for integration with navigation and SLAM pipelines.
+
+### Event-based vision
+
+**event-based-centroiding** (Private repository)
+
+C++20 and Python project for event-based centroid estimation, with optional CUDA and oneTBB support and installable C++ and Python package structures.
+
+**event-based-sparse-features-cotracker** (Private repository)
+
+Research package for sparse feature tracking from event-camera data, combining a Python-first API with C++ and optional CUDA components for performance-critical processing.
+
+**EventVision_for_SpaceNav** (Private repository)
+
+Longer-running research workspace for event-camera methods applied to spacecraft navigation. Parts of this work are being progressively reorganized into more focused libraries.
+
+**EventDataGenerationLib** (Private repository)
+
+Utilities and experiments for generating event-camera data and synthetic event streams for algorithm development and evaluation.
+
+**[event-cameras-primitives](https://github.com/PeterCalifano/event-cameras-primitives)** (WIP)
+
+Early-stage C++/CUDA foundation for reusable event-camera processing components. The public repository is still being reorganized from the common project template.
+
+### Machine learning and deployment
+
+**[pyTorchAutoForge](https://github.com/PeterCalifano/pyTorchAutoForge)**
+
+Tools for PyTorch model development, experiment tracking, optimization and deployment. Includes integration with MLflow and Optuna together with ONNX, TensorRT and embedded/Jetson-oriented workflows.
+
+**neuralcob_rcs1** (Private repository)
+
+Research implementation of NeuralCOB, a learning-based correction approach for center-of-brightness measurements in small-body optical navigation, including training, evaluation and deployment-oriented work.
+
+### Rendering and sensor simulation
+
+**[computer-graphics-primitives](https://github.com/PeterCalifano/computer-graphics-primitives)**
+
+Dependency-light C++20 foundation for reusable computer-graphics, rendering and physically based sensor-simulation components.
+
+**spectra-rt** (Private repository)
+
+GPU-accelerated rendering framework for physically based and radiometric simulation of space scenes, developed with C++, CUDA and NVIDIA OptiX.
 
 ### Development tools
 
-See also my smaller utilities and templates for MATLAB/C++, code generation, communications, testing, and scientific software workflows throughout the repositories on this profile.
+**[cpp_cuda_template_project](https://github.com/PeterCalifano/cpp_cuda_template_project)**
+
+Reusable CMake project template for modern C++20 and GPU-accelerated libraries, with optional CUDA, OptiX, TensorRT, Python/MATLAB bindings, testing, documentation, profiling and CI support.
+
+**[AutoCodegenTools4MATLAB](https://github.com/PeterCalifano/AutoCodegenTools4MATLAB)**
+
+Utilities for streamlining MATLAB and Simulink code generation workflows, including automated generation of Interface Control Documents.
+
+I also maintain a number of smaller utilities and templates for MATLAB/C++, code generation, testing and general software workflows. The list above is intentionally selective and reflects the projects I currently maintain or develop most actively. This changes over time with the needs of ongoing research and software work.
 
 ---
 
@@ -63,18 +122,18 @@ See also my smaller utilities and templates for MATLAB/C++, code generation, com
 
 I'm a PhD student in Aerospace Engineering at DARTLab, Politecnico di Milano.
 
-In my free time, I often play with computer graphics, ray tracing, programming tools, and whatever technical problem happens to catch my curiosity.
+In my free time, I often play with computer graphics, ray tracing, programming tools and whatever technical problem happens to catch my curiosity.
 
-Curiosity is my greatest strength. No matter the subject, I approach everything with awe and enthusiasm ✨.
+Curiosity is my greatest strength. No matter the subject, I approach everything with awe and enthusiasm.
 
-**Motto** 🔥: *“Wonder is anywhere, if you are curious enough to discover it.”*
+**Motto:** *"Wonder is anywhere, if you are curious enough to discover it."*
 
-**Coding-related motto** 🤖: *“Give me a task and I will code a SW library to automate it.”*
+**Coding-related motto:** *"Give me a task and I will code a SW library to automate it."*
 
-## Contacts 📡
+## Contacts
 
-- Email: petercalifano.gs@gmail.com or pietro.califano@polimi.it
+- Email: [petercalifano.gs@gmail.com](mailto:petercalifano.gs@gmail.com) or [pietro.califano@polimi.it](mailto:pietro.califano@polimi.it)
 - Telegram: @peter_califano
-- LinkedIn: [Pietro Califano](https://www.linkedin.com/in/pietro-califano-a46b7b199/)
+- [LinkedIn](https://www.linkedin.com/in/pietro-califano-a46b7b199/)
 
-Feel free to get in touch if you are interested in my work, curious to learn more, or considering a collaboration! 🚀
+Feel free to get in touch if you are interested in my work, curious to learn more, or considering a collaboration!
