@@ -19,14 +19,12 @@ My broader research interests also include **event-based vision**, **machine lea
 
 ## Research interests
 
-- Autonomous spacecraft navigation and exploration
 - Visual navigation, SLAM and structure from motion
-- Factor-graph estimation and multi-sensor fusion
+- Factor graph-based estimation and multi-sensor fusion
 - Computer vision and event-based vision
-- Guidance and autonomous robotics
 - Machine learning for navigation and perception
-- Physically based rendering and sensor simulation
-- Scientific and robotics software engineering
+- Physically based rendering
+- Autonomous spacecraft navigation and exploration
 
 ## Selected software & projects
 
