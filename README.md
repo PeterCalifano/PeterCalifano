@@ -11,7 +11,7 @@ I am also interested in **event-based vision**, **physically based rendering and
 - [Google Scholar](https://scholar.google.com/citations?user=Yvol8yQAAAAJ&hl=en)
 - [ORCID](https://orcid.org/0009-0003-6157-3515)
 - [LinkedIn](https://www.linkedin.com/in/pietro-califano-a46b7b199/)
-- [Personal website](https://petercalifano.github.io/)
+- Personal website — WIP
 
 ## Research interests
 
