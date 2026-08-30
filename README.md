@@ -1,10 +1,14 @@
-# Pietro Califano
+# Hello! Pietro, aka PC, here
 
-PhD researcher in Aerospace Engineering at **DART Lab, Politecnico di Milano**, working on autonomous spacecraft navigation at the intersection of **computer vision, SLAM, state estimation, machine learning, and robotics**.
+## Brief bio and about me
 
-My research focuses primarily on navigation and autonomous exploration around small bodies and other poorly characterized environments. I work across the full navigation pipeline, from visual frontends and sensor processing to nonlinear estimation, factor graphs, simulation, and algorithm deployment.
+I'm a PhD student in Aerospace Engineering at **DART Lab, Politecnico di Milano**.
 
-I am also interested in **event-based vision**, **physically based rendering and sensor simulation**, and the development of reusable scientific and robotics software.
+My research focuses on **visual navigation, SLAM, computer vision, multi-sensor state estimation and factor-graph methods**, primarily for autonomous spacecraft navigation and exploration of small bodies and other poorly characterized environments.
+
+I work across the full navigation pipeline, from visual frontends and sensor processing to nonlinear estimation, simulation and algorithm deployment.
+
+My broader research interests also include **event-based vision**, **machine learning for navigation and perception**, **guidance and autonomous robotics**, **physically based rendering and sensor simulation**, and the development of reusable scientific and robotics software.
 
 ### Research profiles & links
 
