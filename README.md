@@ -90,6 +90,10 @@ Early-stage C++/CUDA foundation for reusable event-camera processing components.
 
 Tools for PyTorch model development, experiment tracking, optimization and deployment. Includes integration with MLflow and Optuna together with ONNX, TensorRT and embedded/Jetson-oriented workflows.
 
+**[torchAutoForge-deploy](https://github.com/PeterCalifano/torchAutoForge-deploy)** (WIP)
+
+Companion deployment library for pyTorchAutoForge, separating inference and runtime integration from the model-development stack. Current work focuses on C++ ONNX Runtime inference, installable CMake packaging and Python/MATLAB binding support.
+
 ### Rendering & sensor simulation
 
 **[computer-graphics-primitives](https://github.com/PeterCalifano/computer-graphics-primitives)**
