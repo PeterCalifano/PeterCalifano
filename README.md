@@ -1,12 +1,12 @@
 # Pietro Califano
 
-PhD researcher in Aerospace Engineering at **DARTLab, Politecnico di Milano**, working on autonomous spacecraft navigation at the intersection of **computer vision, SLAM, state estimation, machine learning and robotics**.
+PhD researcher in Aerospace Engineering at **DARTLab, Politecnico di Milano**, working on autonomous spacecraft navigation at the intersection of **computer vision, SLAM, state estimation, machine learning, and robotics**.
 
-My research focuses primarily on navigation and autonomous exploration around small bodies and other poorly characterized environments. I work across the full navigation pipeline, from visual frontends and sensor processing to nonlinear estimation, factor graphs, simulation and algorithm deployment.
+My research focuses primarily on navigation and autonomous exploration around small bodies and other poorly characterized environments. I work across the full navigation pipeline, from visual frontends and sensor processing to nonlinear estimation, factor graphs, simulation, and algorithm deployment.
 
 I am also interested in **event-based vision**, **physically based rendering and sensor simulation**, and the development of reusable scientific and robotics software.
 
-### Research profiles and links
+### Research profiles & links
 
 - [Google Scholar](https://scholar.google.com/citations?user=Yvol8yQAAAAJ&hl=en)
 - [ORCID](https://orcid.org/0009-0003-6157-3515)
@@ -24,11 +24,11 @@ I am also interested in **event-based vision**, **physically based rendering and
 - Physically based rendering and sensor simulation
 - Scientific and robotics software engineering
 
-## Selected software and projects
+## Selected software & projects
 
 > Some active research repositories remain private while the corresponding work is in development or publication. Reusable components are released publicly whenever possible, and I am open to sharing work in the context of research collaborations, projects and reviews.
 
-### Computer vision, SLAM and robotics
+### Computer vision, SLAM & robotics
 
 **[slam-primitives](https://github.com/PeterCalifano/slam-primitives)**
 
@@ -84,7 +84,7 @@ Utilities and experiments for generating event-camera data and synthetic event s
 
 Early-stage C++/CUDA foundation for reusable event-camera processing components. The public repository is still being reorganized from the common project template.
 
-### Machine learning and deployment
+### Machine learning & deployment
 
 **[pyTorchAutoForge](https://github.com/PeterCalifano/pyTorchAutoForge)**
 
@@ -94,7 +94,7 @@ Tools for PyTorch model development, experiment tracking, optimization and deplo
 
 Research implementation of NeuralCOB, a learning-based correction approach for center-of-brightness measurements in small-body optical navigation, including training, evaluation and deployment-oriented work.
 
-### Rendering and sensor simulation
+### Rendering & sensor simulation
 
 **[computer-graphics-primitives](https://github.com/PeterCalifano/computer-graphics-primitives)**
 
@@ -124,16 +124,16 @@ I'm a PhD student in Aerospace Engineering at DARTLab, Politecnico di Milano.
 
 In my free time, I often play with computer graphics, ray tracing, programming tools and whatever technical problem happens to catch my curiosity.
 
-Curiosity is my greatest strength. No matter the subject, I approach everything with awe and enthusiasm.
+Curiosity is my greatest strength. No matter the subject, I approach everything with awe and enthusiasm ✨.
 
-**Motto:** *"Wonder is anywhere, if you are curious enough to discover it."*
+**Motto** 🔥: *“Wonder is anywhere, if you are curious enough to discover it.”*
 
-**Coding-related motto:** *"Give me a task and I will code a SW library to automate it."*
+**Coding-related motto** 🤖: *“Give me a task and I will code a SW library to automate it.”*
 
-## Contacts
+## Contacts 📡
 
 - Email: [petercalifano.gs@gmail.com](mailto:petercalifano.gs@gmail.com) or [pietro.califano@polimi.it](mailto:pietro.califano@polimi.it)
 - Telegram: @peter_califano
 - [LinkedIn](https://www.linkedin.com/in/pietro-califano-a46b7b199/)
 
-Feel free to get in touch if you are interested in my work, curious to learn more, or considering a collaboration!
+Feel free to get in touch if you are interested in my work, curious to learn more, or considering a collaboration! 🚀
