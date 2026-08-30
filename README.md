@@ -68,14 +68,6 @@ Research and software for shape reconstruction and mapping of poorly characteriz
 
 C++20 and Python project for event-based centroid estimation, with optional CUDA and oneTBB support and installable C++ and Python package structures.
 
-**event-based-sparse-features-cotracker** (Private repository)
-
-Research package for sparse feature tracking from event-camera data, combining a Python-first API with C++ and optional CUDA components for performance-critical processing.
-
-**EventVision_for_SpaceNav** (Private repository)
-
-Longer-running research workspace for event-camera methods applied to spacecraft navigation. Parts of this work are being progressively reorganized into more focused libraries.
-
 **EventDataGenerationLib** (Private repository)
 
 Utilities and experiments for generating event-camera data and synthetic event streams for algorithm development and evaluation.
@@ -89,10 +81,6 @@ Early-stage C++/CUDA foundation for reusable event-camera processing components.
 **[pyTorchAutoForge](https://github.com/PeterCalifano/pyTorchAutoForge)**
 
 Tools for PyTorch model development, experiment tracking, optimization and deployment. Includes integration with MLflow and Optuna together with ONNX, TensorRT and embedded/Jetson-oriented workflows.
-
-**neuralcob_rcs1** (Private repository)
-
-Research implementation of NeuralCOB, a learning-based correction approach for center-of-brightness measurements in small-body optical navigation, including training, evaluation and deployment-oriented work.
 
 ### Rendering & sensor simulation
 
