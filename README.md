@@ -124,7 +124,7 @@ I also maintain a number of smaller utilities and templates for MATLAB/C++, code
 
 ## A bit about me
 
-I'm a PhD student in Aerospace Engineering at DARTLab, Politecnico di Milano.
+I'm a PhD student in Aerospace Engineering at DART Lab, Politecnico di Milano.
 
 In my free time, I often play with computer graphics, ray tracing, programming tools and whatever technical problem happens to catch my curiosity.
 
