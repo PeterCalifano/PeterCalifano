@@ -80,6 +80,10 @@ There is also a number of other smaller utilities and libraries. The list above 
 
 Curiosity is my greatest strength. No matter the subject, I approach everything with awe and enthusiasm ✨.
 
+> *“Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.”*
+>
+> Richard P. Feynman, letter to J. M. Szabados, 1965
+
 **Motto** 🔥: *“Wonder is anywhere, if you are curious enough to discover it.”*
 
 **Coding-related motto** 🤖: *“Give me a task and I will code a SW library to automate it.”*
