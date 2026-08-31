@@ -35,34 +35,31 @@ Secondary research interests include **event-based vision**, **machine learning 
 
 > **Important!** Some active research repositories remain private while the corresponding work is in development or under review for publication. Reusable components are released publicly whenever possible, and I am open to sharing work in the context of research collaborations, projects and reviews for jobs.
 
-### Computer vision, SLAM & robotics
+### Computer vision, SLAM & robotics and spacecraft navigation
 
 - **[slam-primitives](https://github.com/PeterCalifano/slam-primitives)**
 - **pyramidal-klt-for-space-nav** (Private repository)
 - **space-nav-frontend** (Private repository)
-
-### Spacecraft navigation and estimation
-
 - **gtsam-space-nav** (Private repository)
-- **[EstimationGears for SpaceNav](https://github.com/PeterCalifano/EstimationGears_for_SpaceNav)**
 - **space-nav-backend** (Private repository)
 - **space-nav-loop-closures** (Private repository)
+- **[EstimationGears for SpaceNav](https://github.com/PeterCalifano/EstimationGears_for_SpaceNav)**
+- **space-nav-shape-reconstruction** (Private repository)
 
 ### Space environment and models simulation
 
 - **[SimulationGears for SpaceNav](https://github.com/PeterCalifano/SimulationGears_for_SpaceNav)**
-- **space-nav-shape-reconstruction** (Private repository)
 
 ### Event-based vision
 
+- **[event-cameras-primitives](https://github.com/PeterCalifano/event-cameras-primitives)**
 - **event-based-centroiding** (Private repository)
 - **EventDataGenerationLib** (Private repository)
-- **[event-cameras-primitives](https://github.com/PeterCalifano/event-cameras-primitives)** (WIP)
 
 ### Machine learning & deployment
 
 - **[pyTorchAutoForge](https://github.com/PeterCalifano/pyTorchAutoForge)**
-- **[torchAutoForge-deploy](https://github.com/PeterCalifano/torchAutoForge-deploy)** (WIP)
+- **[torchAutoForge-deploy](https://github.com/PeterCalifano/torchAutoForge-deploy)** 
 
 ### Rendering & sensor simulation
 
@@ -74,7 +71,7 @@ Secondary research interests include **event-based vision**, **machine learning 
 - **[cpp_cuda_template_project](https://github.com/PeterCalifano/cpp_cuda_template_project)**
 - **[AutoCodegenTools4MATLAB](https://github.com/PeterCalifano/AutoCodegenTools4MATLAB)**
 
-I also maintain a number of smaller utilities and templates for MATLAB/C++, code generation, testing and general software workflows. The list above is intentionally selective and reflects the projects I currently maintain or develop most actively. This changes over time with the needs of ongoing research and software work.
+There is also a number of other smaller utilities and libraries. The list above is intentionally selective and reflects the projects I currently maintain or develop most actively. This changes over time with the needs of ongoing research and software work.
 
 ---
 
