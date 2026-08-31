@@ -31,7 +31,7 @@ Secondary research interests include **event-based vision**, **machine learning 
 
 ## Selected software & projects
 
-> Some active research repositories remain private while the corresponding work is in development or publication. Reusable components are released publicly whenever possible, and I am open to sharing work in the context of research collaborations, projects and reviews.
+> **Important!** Some active research repositories remain private while the corresponding work is in development or under review for publication. Reusable components are released publicly whenever possible, and I am open to sharing work in the context of research collaborations, projects and reviews for jobs.
 
 ### Computer vision, SLAM & robotics
 
@@ -41,7 +41,7 @@ Header-only C++20 library providing reusable data structures and components for 
 
 **pyramidal-klt-for-space-nav** (Private repository)
 
-C++20 pyramidal KLT feature-tracking library for visual navigation, with MATLAB-codegen KLT/MSAC kernels, an OpenCV-based tracking pipeline, Python/MATLAB bindings and an optional ROS 2 overlay. It also includes reproducible demos on lunar imagery for end-to-end evaluation of the frontend pipeline.
+C++20 pyramidal KLT feature-tracking library for visual navigation, with MATLAB-codegen KLT/MSAC kernels, an OpenCV-based tracking pipeline, Python/MATLAB bindings and an optional ROS 2 overlay. It also includes reproducible demos on lunar imagery for end-to-end showcase of the frontend pipeline.
 
 **space-nav-frontend** (Private repository)
 
