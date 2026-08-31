@@ -38,13 +38,13 @@ Secondary research interests include **event-based vision**, **machine learning 
 ### Computer vision, SLAM & robotics and spacecraft navigation
 
 - **[slam-primitives](https://github.com/PeterCalifano/slam-primitives)**
-- **pyramidal-klt-for-space-nav** (Private repository)
-- **space-nav-frontend** (Private repository)
-- **gtsam-space-nav** (Private repository)
-- **space-nav-backend** (Private repository)
-- **space-nav-loop-closures** (Private repository)
+- **pyramidal-klt-for-space-nav** (Private)
+- **space-nav-frontend** (Private)
+- **gtsam-space-nav** (Private)
+- **space-nav-backend** (Private)
+- **space-nav-loop-closures** (Private)
 - **[EstimationGears for SpaceNav](https://github.com/PeterCalifano/EstimationGears_for_SpaceNav)**
-- **space-nav-shape-reconstruction** (Private repository)
+- **space-nav-shape-reconstruction** (Private)
 
 ### Space environment and models simulation
 
@@ -53,8 +53,8 @@ Secondary research interests include **event-based vision**, **machine learning 
 ### Event-based vision
 
 - **[event-cameras-primitives](https://github.com/PeterCalifano/event-cameras-primitives)**
-- **event-based-centroiding** (Private repository)
-- **EventDataGenerationLib** (Private repository)
+- **event-based-centroiding** (Private)
+- **EventDataGenerationLib** (Private)
 
 ### Machine learning & deployment
 
@@ -64,7 +64,7 @@ Secondary research interests include **event-based vision**, **machine learning 
 ### Rendering & sensor simulation
 
 - **[computer-graphics-primitives](https://github.com/PeterCalifano/computer-graphics-primitives)**
-- **spectra-rt** (Private repository)
+- **spectra-rt** (Private)
 
 ### Development tools
 
