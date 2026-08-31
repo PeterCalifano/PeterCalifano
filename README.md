@@ -33,7 +33,7 @@ Secondary research interests include **event-based vision**, **machine learning 
 
 ## [>] Selected software & projects
 
-> **Important!** Some active research repositories remain private while the corresponding work is in development or under review for publication. Reusable components are released publicly whenever possible, and I am open to sharing work in the context of research collaborations, projects and reviews for jobs.
+> **Important!** Some active research repositories remain private while the corresponding work is in development or under review for publication. Code is released publicly whenever possible, and I am open to sharing work in the context of research collaborations, projects and reviews for jobs.
 
 ### Computer vision, SLAM & robotics and spacecraft navigation
 
