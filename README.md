@@ -37,89 +37,42 @@ Secondary research interests include **event-based vision**, **machine learning 
 
 ### Computer vision, SLAM & robotics
 
-**[slam-primitives](https://github.com/PeterCalifano/slam-primitives)**
-
-Header-only C++20 library providing reusable data structures and components for visual-SLAM frontends, including feature tracks, bundles and covisibility structures. Designed as an installable, dependency-light package with optional CUDA, ROS 2 and language bindings.
-
-**pyramidal-klt-for-space-nav** (Private repository)
-
-C++20 pyramidal KLT feature-tracking library for visual navigation, with MATLAB-codegen KLT/MSAC kernels, an OpenCV-based tracking pipeline, Python/MATLAB bindings and an optional ROS 2 overlay. It also includes reproducible demos on lunar imagery for end-to-end showcase of the frontend pipeline.
-
-**space-nav-frontend** (Private repository)
-
-Visual-navigation frontend used to develop and integrate feature tracking, geometric vision and related perception components for the broader spacecraft navigation architecture.
+- **[slam-primitives](https://github.com/PeterCalifano/slam-primitives)**
+- **pyramidal-klt-for-space-nav** (Private repository)
+- **space-nav-frontend** (Private repository)
 
 ### Spacecraft navigation and estimation
 
-**gtsam-space-nav** (Private repository)
-
-C++20 extension library for spacecraft navigation on top of GTSAM, including dynamics and propagation utilities, process-noise handling, measurement and maneuver factors, and optional Python/MATLAB wrappers.
-
-**[EstimationGears for SpaceNav](https://github.com/PeterCalifano/EstimationGears_for_SpaceNav)**
-
-Collection of reusable MATLAB and C++ building blocks for spacecraft navigation estimators, progressively organized and refactored from research code developed across different projects.
-
-**space-nav-backend** (Private repository)
-
-Navigation backend combining MATLAB algorithms with a standalone C++/CUDA library, wrapper infrastructure and an optional ROS 2 overlay.
-
-**space-nav-loop-closures** (Private repository)
-
-Research repository for loop-closure detection and geometric validation in visual SLAM for small-body navigation.
+- **gtsam-space-nav** (Private repository)
+- **[EstimationGears for SpaceNav](https://github.com/PeterCalifano/EstimationGears_for_SpaceNav)**
+- **space-nav-backend** (Private repository)
+- **space-nav-loop-closures** (Private repository)
 
 ### Space environment and models simulation
 
-**[SimulationGears for SpaceNav](https://github.com/PeterCalifano/SimulationGears_for_SpaceNav)**
-
-Simulation infrastructure for spacecraft navigation research, combining a MATLAB-based simulation environment with a growing native C++20, CUDA and ROS 2 software stack.
-
-**space-nav-shape-reconstruction** (Private repository)
-
-Research and software for shape reconstruction and mapping of poorly characterized bodies, intended for integration with navigation and SLAM pipelines.
+- **[SimulationGears for SpaceNav](https://github.com/PeterCalifano/SimulationGears_for_SpaceNav)**
+- **space-nav-shape-reconstruction** (Private repository)
 
 ### Event-based vision
 
-**event-based-centroiding** (Private repository)
-
-C++20 and Python project for event-based centroid estimation, with optional CUDA and oneTBB support and installable C++ and Python package structures.
-
-**EventDataGenerationLib** (Private repository)
-
-Utilities and experiments for generating event-camera data and synthetic event streams for algorithm development and evaluation.
-
-**[event-cameras-primitives](https://github.com/PeterCalifano/event-cameras-primitives)** (WIP)
-
-Early-stage C++/CUDA foundation for reusable event-camera processing components. The public repository is still being reorganized from the common project template.
+- **event-based-centroiding** (Private repository)
+- **EventDataGenerationLib** (Private repository)
+- **[event-cameras-primitives](https://github.com/PeterCalifano/event-cameras-primitives)** (WIP)
 
 ### Machine learning & deployment
 
-**[pyTorchAutoForge](https://github.com/PeterCalifano/pyTorchAutoForge)**
-
-Tools for PyTorch model development, experiment tracking, optimization and deployment. Includes integration with MLflow and Optuna together with ONNX, TensorRT and embedded/Jetson-oriented workflows.
-
-**[torchAutoForge-deploy](https://github.com/PeterCalifano/torchAutoForge-deploy)** (WIP)
-
-Companion deployment library for pyTorchAutoForge, separating inference and runtime integration from the model-development stack. Current work focuses on C++ ONNX Runtime inference, installable CMake packaging and Python/MATLAB binding support.
+- **[pyTorchAutoForge](https://github.com/PeterCalifano/pyTorchAutoForge)**
+- **[torchAutoForge-deploy](https://github.com/PeterCalifano/torchAutoForge-deploy)** (WIP)
 
 ### Rendering & sensor simulation
 
-**[computer-graphics-primitives](https://github.com/PeterCalifano/computer-graphics-primitives)**
-
-Dependency-light C++20 foundation for reusable computer-graphics, rendering and physically based sensor-simulation components.
-
-**spectra-rt** (Private repository)
-
-GPU-accelerated rendering framework for physically based and radiometric simulation of space scenes, developed with C++, CUDA and NVIDIA OptiX.
+- **[computer-graphics-primitives](https://github.com/PeterCalifano/computer-graphics-primitives)**
+- **spectra-rt** (Private repository)
 
 ### Development tools
 
-**[cpp_cuda_template_project](https://github.com/PeterCalifano/cpp_cuda_template_project)**
-
-Reusable CMake project template for modern C++20 and GPU-accelerated libraries, with optional CUDA, OptiX, TensorRT, Python/MATLAB bindings, testing, documentation, profiling and CI support.
-
-**[AutoCodegenTools4MATLAB](https://github.com/PeterCalifano/AutoCodegenTools4MATLAB)**
-
-Utilities for streamlining MATLAB and Simulink code generation workflows, including automated generation of Interface Control Documents.
+- **[cpp_cuda_template_project](https://github.com/PeterCalifano/cpp_cuda_template_project)**
+- **[AutoCodegenTools4MATLAB](https://github.com/PeterCalifano/AutoCodegenTools4MATLAB)**
 
 I also maintain a number of smaller utilities and templates for MATLAB/C++, code generation, testing and general software workflows. The list above is intentionally selective and reflects the projects I currently maintain or develop most actively. This changes over time with the needs of ongoing research and software work.
 
