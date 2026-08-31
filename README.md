@@ -3,7 +3,7 @@
 <p> Vision-based navigation | SLAM | Multi-sensor estimation | Space vehicles and robots autonomy </p>
 </div>
 
-## Research and development
+## [>] Research and development
 
 I'm a PhD student in Aerospace Engineering at **DART Lab, Politecnico di Milano**.
 
@@ -78,7 +78,7 @@ I also maintain a number of smaller utilities and templates for MATLAB/C++, code
 
 ---
 
-## A bit about me
+## [>] A bit about me
 
 Curiosity is my greatest strength. No matter the subject, I approach everything with awe and enthusiasm ✨.
 
