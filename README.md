@@ -50,11 +50,12 @@ Secondary research interests include **event-based vision**, **machine learning 
 
 - **[SimulationGears for SpaceNav](https://github.com/PeterCalifano/SimulationGears_for_SpaceNav)**
 
-### Event-based vision
+### Event-based vision and simulation
 
 - **[event-cameras-primitives](https://github.com/PeterCalifano/event-cameras-primitives)**
 - **event-based-centroiding** (Private)
 - **EventDataGenerationLib** (Private)
+- [**v2e-extended**](https://github.com/PeterCalifano/v2e-extended)
 
 ### Machine learning & deployment
 
