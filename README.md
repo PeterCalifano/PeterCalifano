@@ -1,5 +1,7 @@
-#### Hello! Here is Pietro Califano - aka "PC"
-# Research, software and a bit about me
+<div align="center">
+<h1>Hello! Here is Pietro Califano <strong>aka "PC"</strong> </h1>
+<p> Vision-based navigation | SLAM | Multi-sensor estimation | Space vehicles and robots autonomy </p>
+</div>
 
 ## Research and development
 
