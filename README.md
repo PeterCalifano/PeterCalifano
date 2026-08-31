@@ -5,7 +5,7 @@
 
 ## [>] Research and development
 
-I'm a PhD student in Aerospace Engineering at [**DART Lab, Politecnico di Milano**](dart.polimi.it).
+I'm a PhD student in Aerospace Engineering at [**DART Lab, Politecnico di Milano**]([dart.polimi.it](https://dart.polimi.it/)).
 
 My research primarily focuses on **visual navigation, SLAM, computer vision and multi-sensor state estimation**, with particular interest in factor-graph methods and integrated navigation architectures. I primarily develop these methods for autonomous spacecraft navigation, especially for the exploration and characterization of small bodies and other poorly known environments, where no GNSS is available.
 
