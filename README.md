@@ -1,14 +1,14 @@
-# Hello! Pietro, aka PC, here
+# Pietro Califano - aka "PC"
 
-## Brief bio and about me
+## Research, software and a bit about me
 
 I'm a PhD student in Aerospace Engineering at **DART Lab, Politecnico di Milano**.
 
-My research focuses on **visual navigation, SLAM, computer vision, multi-sensor state estimation and factor-graph methods**, primarily for autonomous spacecraft navigation and exploration of small bodies and other poorly characterized environments.
+My research primarily focuses on **visual navigation, SLAM, computer vision and multi-sensor state estimation**, with particular interest in factor-graph methods and integrated navigation architectures. I primarily develop these methods for autonomous spacecraft navigation, especially for the exploration and characterization of small bodies and other poorly known environments, where no GNSS is available.
 
-I work across the full navigation pipeline, from visual frontends and sensor processing to nonlinear estimation, simulation and algorithm deployment.
+My work spans different parts of the navigation stack, from visual frontends and geometric vision to nonlinear estimation, simulation, validation and algorithm deployment.
 
-My broader research interests also include **event-based vision**, **machine learning for navigation and perception**, **guidance and autonomous robotics**, **physically based rendering and sensor simulation**, and the development of reusable scientific and robotics software.
+Secondary research interests include **event-based vision**, **machine learning for navigation and perception**, and **physically based rendering and sensor simulation**. I usually spend considerable effort developing reusable and well designed software around these topics, beyond just writing papers.
 
 ### Research profiles & links
 
@@ -20,11 +20,11 @@ My broader research interests also include **event-based vision**, **machine lea
 ## Research interests
 
 - Visual navigation, SLAM and structure from motion
-- Factor graph-based estimation and multi-sensor fusion
-- Computer vision and event-based vision
-- Machine learning for navigation and perception
-- Physically based rendering
+- Factor-graph estimation and multi-sensor fusion
 - Autonomous spacecraft navigation and exploration
+- Event-based vision in SLAM, visual odometry and localization
+- Machine learning applied to computer vision and estimation problems
+- High fidelity physically based rendering and spectral rendering
 
 ## Selected software & projects
 
@@ -121,10 +121,6 @@ I also maintain a number of smaller utilities and templates for MATLAB/C++, code
 ---
 
 ## A bit about me
-
-I'm a PhD student in Aerospace Engineering at DART Lab, Politecnico di Milano.
-
-In my free time, I often play with computer graphics, ray tracing, programming tools and whatever technical problem happens to catch my curiosity.
 
 Curiosity is my greatest strength. No matter the subject, I approach everything with awe and enthusiasm ✨.
 
