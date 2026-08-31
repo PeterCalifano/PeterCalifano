@@ -2,6 +2,8 @@
 
 ## Research, software and a bit about me
 
+## Research and development
+
 I'm a PhD student in Aerospace Engineering at **DART Lab, Politecnico di Milano**.
 
 My research primarily focuses on **visual navigation, SLAM, computer vision and multi-sensor state estimation**, with particular interest in factor-graph methods and integrated navigation architectures. I primarily develop these methods for autonomous spacecraft navigation, especially for the exploration and characterization of small bodies and other poorly known environments, where no GNSS is available.
@@ -17,7 +19,7 @@ Secondary research interests include **event-based vision**, **machine learning 
 - [LinkedIn](https://www.linkedin.com/in/pietro-califano-a46b7b199/)
 - Personal website (WIP)
 
-## Research interests
+### Research interests
 
 - Visual navigation, SLAM and structure from motion
 - Factor-graph estimation and multi-sensor fusion
@@ -25,6 +27,8 @@ Secondary research interests include **event-based vision**, **machine learning 
 - Event-based vision in SLAM, visual odometry and localization
 - Machine learning applied to computer vision and estimation problems
 - High fidelity physically based rendering and spectral rendering
+
+---
 
 ## Selected software & projects
 
