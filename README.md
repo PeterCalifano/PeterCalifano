@@ -57,7 +57,7 @@ Secondary research interests include **event-based vision**, **machine learning 
 - **EventDataGenerationLib** (Private)
 - [**v2e-extended**](https://github.com/PeterCalifano/v2e-extended)
 
-### Machine learning & deployment
+### Machine learning & models deployment
 
 - **[pyTorchAutoForge](https://github.com/PeterCalifano/pyTorchAutoForge)**
 - **[torchAutoForge-deploy](https://github.com/PeterCalifano/torchAutoForge-deploy)** 
