@@ -46,7 +46,7 @@ Secondary research interests include **event-based vision**, **machine learning 
 - **[EstimationGears for SpaceNav](https://github.com/PeterCalifano/EstimationGears_for_SpaceNav)**
 - **space-nav-shape-reconstruction** (Private)
 
-### Space environment and models simulation
+### Space environment and simulation models
 
 - **[SimulationGears for SpaceNav](https://github.com/PeterCalifano/SimulationGears_for_SpaceNav)**
 
