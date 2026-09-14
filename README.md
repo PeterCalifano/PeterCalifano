@@ -76,7 +76,7 @@ There is also a number of other smaller utilities and libraries. The list above 
 
 ---
 
-## [>] A bit about me
+## [>] A _byte_ about me
 
 Curiosity is my greatest strength. No matter the subject, I approach everything with awe and enthusiasm ✨.
 
