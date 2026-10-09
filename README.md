@@ -7,6 +7,8 @@
 
 I'm a PhD student in Aerospace Engineering at [**DART Lab, Politecnico di Milano**](https://dart.polimi.it/).
 
+From May to November 2026 I'm also a guest researcher at the **DFKI Robotics Innovation Center** (Underactuated Robotics Lab), extending visual navigation and state estimation to humanoid platforms.
+
 My research primarily focuses on **visual navigation, SLAM, computer vision and multi-sensor state estimation**, with particular interest in factor-graph methods and integrated navigation architectures. I primarily develop these methods for autonomous spacecraft navigation, especially for the exploration and characterization of small bodies and other poorly known environments, where no GNSS is available.
 
 My work spans different parts of the navigation stack, from visual frontends and geometric vision to nonlinear estimation, simulation, validation and algorithm deployment.
@@ -18,7 +20,7 @@ Secondary research interests include **event-based vision**, **machine learning 
 - [Google Scholar](https://scholar.google.com/citations?user=Yvol8yQAAAAJ&hl=en)
 - [ORCID](https://orcid.org/0009-0003-6157-3515)
 - [LinkedIn](https://www.linkedin.com/in/pietro-califano-a46b7b199/)
-- Personal website (WIP)
+- [Personal website](https://petercalifano.github.io/)
 
 ### Research interests
 
@@ -37,14 +39,18 @@ Secondary research interests include **event-based vision**, **machine learning 
 
 ### Computer vision, SLAM & robotics and spacecraft navigation
 
+- **[MathCore for ComputerVision](https://github.com/PeterCalifano/MathCore_for_ComputerVision)**
 - **[slam-primitives](https://github.com/PeterCalifano/slam-primitives)**
+- **EvalAndVizGears for ComputerVision** (Private)
 - **pyramidal-klt-for-space-nav** (Private)
 - **space-nav-frontend** (Private)
+- **[EstimationGears for SpaceNav](https://github.com/PeterCalifano/EstimationGears_for_SpaceNav)**
+- **msckf-space-nav** (Private)
 - **gtsam-space-nav** (Private)
 - **space-nav-backend** (Private)
 - **space-nav-loop-closures** (Private)
-- **[EstimationGears for SpaceNav](https://github.com/PeterCalifano/EstimationGears_for_SpaceNav)**
 - **space-nav-shape-reconstruction** (Private)
+- **space-nav-system** (Private)
 
 ### Space environment and simulation models
 
@@ -54,8 +60,7 @@ Secondary research interests include **event-based vision**, **machine learning 
 
 - **[event-cameras-primitives](https://github.com/PeterCalifano/event-cameras-primitives)**
 - **event-based-centroiding** (Private)
-- **EventDataGenerationLib** (Private)
-- [**v2e-extended**](https://github.com/PeterCalifano/v2e-extended)
+- **event-vision-dataprocessing** (Private)
 
 ### Machine learning & models deployment
 
@@ -70,7 +75,17 @@ Secondary research interests include **event-based vision**, **machine learning 
 ### Development tools
 
 - **[cpp_cuda_template_project](https://github.com/PeterCalifano/cpp_cuda_template_project)**
+- **[ros2_cpp_cuda_template_project](https://github.com/PeterCalifano/ros2_cpp_cuda_template_project)**
+- **[python_template_project](https://github.com/PeterCalifano/python_template_project)**
 - **[AutoCodegenTools4MATLAB](https://github.com/PeterCalifano/AutoCodegenTools4MATLAB)**
+
+### Forks and extensions
+
+- **[DLib](https://github.com/PeterCalifano/DLib)** (fork of [dorian3d/DLib](https://github.com/dorian3d/DLib))
+- **[DBoW2](https://github.com/PeterCalifano/DBoW2)** (fork of [dorian3d/DBoW2](https://github.com/dorian3d/DBoW2))
+- **[DLoopDetector](https://github.com/PeterCalifano/DLoopDetector)** (fork of [dorian3d/DLoopDetector](https://github.com/dorian3d/DLoopDetector))
+- **[wrap](https://github.com/PeterCalifano/wrap)** (fork of [borglab/wrap](https://github.com/borglab/wrap))
+- **[v2e-extended](https://github.com/PeterCalifano/v2e-extended)** (fork of [SensorsINI/v2e](https://github.com/SensorsINI/v2e))
 
 There is also a number of other smaller utilities and libraries. The list above is intentionally selective and reflects the projects I currently maintain or develop most actively. This changes over time with the needs of ongoing research and software work.
 
@@ -91,7 +106,8 @@ Curiosity is my greatest strength. No matter the subject, I approach everything 
 ## Contacts 📡
 
 - Email: [petercalifano.gs@gmail.com](mailto:petercalifano.gs@gmail.com) or [pietro.califano@polimi.it](mailto:pietro.califano@polimi.it)
-- Telegram: @peter_califano
+- Telegram: [@peter_califano](https://t.me/peter_califano)
+- Website: [petercalifano.github.io](https://petercalifano.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/pietro-califano-a46b7b199/)
 
 Feel free to get in touch if you are interested in my work, curious to learn more, or considering a collaboration! 🚀
