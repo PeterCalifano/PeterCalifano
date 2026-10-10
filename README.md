@@ -11,7 +11,7 @@ From May to November 2026 I'm also a guest researcher at the **DFKI Robotics Inn
 
 My research primarily focuses on **visual navigation, SLAM, computer vision and multi-sensor state estimation**, with particular interest in factor-graph methods and integrated navigation architectures. I primarily develop these methods for autonomous spacecraft navigation, especially for the exploration and characterization of small bodies and other poorly known environments, where no GNSS is available.
 
-My work spans different parts of the navigation stack, from visual frontends and geometric vision to nonlinear estimation, simulation, validation and algorithm deployment.
+My work spans different parts of the navigation stack, from visual frontends and computer vision, to nonlinear estimation, simulation, validation and algorithm deployment.
 
 Secondary research interests include **event-based vision**, **machine learning for navigation and perception**, and **physically based rendering and sensor simulation**. I usually spend considerable effort developing reusable and well designed software around these topics, beyond just writing papers.
 
