@@ -58,7 +58,7 @@ Secondary research interests include **event-based vision**, **machine learning 
 
 ### Event-based vision and simulation
 
-- **[event-cameras-primitives](https://github.com/PeterCalifano/event-cameras-primitives)**
+- **[event-cameras-primitives](https://github.com/PeterCalifano/event-cameras-primitives)** [Planned TODO]
 - **event-based-centroiding** (Private)
 - **event-vision-dataprocessing** (Private)
 
