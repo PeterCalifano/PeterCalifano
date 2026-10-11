@@ -13,7 +13,7 @@ My research primarily focuses on **visual navigation, SLAM, computer vision and 
 
 My work spans different parts of the navigation stack, from visual frontends and computer vision, to nonlinear estimation, simulation, validation and algorithm deployment.
 
-Secondary research interests include **event-based vision**, **machine learning for navigation and perception**, and **physically based rendering and sensor simulation**. I usually spend considerable effort developing reusable and well designed software around these topics, beyond just writing papers.
+Secondary research interests include **event-based vision**, **machine learning for navigation and perception**, and **physically based rendering and sensor simulation**. I often put considerable effort into developing reusable, well-designed software that goes beyond the needs of a paper. I enjoy seeing how different components come together and how the software&mdash;the embodiment of mathematical algorithms&mdash;evolves alongside my ideas and understanding.
 
 ### Research profiles & links
 
