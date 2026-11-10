@@ -69,7 +69,7 @@ Secondary research interests include **event-based vision**, **machine learning 
 
 ### Rendering & sensor simulation
 
-- **[computer-graphics-primitives](https://github.com/PeterCalifano/computer-graphics-primitives)**
+- **[computer-graphics-primitives](https://github.com/PeterCalifano/computer-graphics-primitives)** [Planned TODO]
 - **spectra-rt** (Private)
 
 ### Development tools
